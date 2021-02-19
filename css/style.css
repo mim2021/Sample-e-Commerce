@@ -1,0 +1,30 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+::selection {
+  color: white;
+  background: red;
+}
+.header-top{
+	/*border-top: 1px solid #ebebeb;*/
+	padding: 6px;
+	border-bottom: 1px solid #ebebeb;
+}
+.email-link{
+	margin-left: 25px;
+    margin-bottom: 0;
+}
+.email-link span{
+	margin-left: 5px;
+}
+.header-bottom{
+	padding: 6px;
+	border-bottom: 1px solid #ebebeb;
+}
+.header-bottom .logo .image-wrapper{
+	width: 10%;
+}
+.header-bottom .cart-section{
+	width: 10%;
+}
